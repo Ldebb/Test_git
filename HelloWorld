@@ -13,13 +13,10 @@ public class HelloWorld {
 
         }
 
-\\ added line ith eclipse
-
-}
-
-// add a user.name
 
   var WinNetwork = new ActiveXObject("WScript.Network");
   
   document.write(WinNetwork.UserName);
 
+
+}
