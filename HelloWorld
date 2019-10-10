@@ -1,5 +1,7 @@
-
+//  added a second comment
 package main;
+
+// add comments to my java script
 
 public class HelloWorld {
 
@@ -11,7 +13,7 @@ public class HelloWorld {
 
         }
 
-
+\\ added line ith eclipse
 
 }
 
