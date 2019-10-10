@@ -15,9 +15,6 @@ public class HelloWorld {
 
 }
 
-
-
-
 import java.util.Date;
 public class Date {
 
@@ -25,4 +22,7 @@ public class Date {
         Date date = new Date();
         System.out.println(date.toString());
     }
+
+
+
 }
