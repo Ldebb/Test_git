@@ -1,6 +1,8 @@
 
 package main;
 
+// add comments to my java script
+
 public class HelloWorld {
 
         public static void main(String[] args) {
@@ -11,7 +13,7 @@ public class HelloWorld {
 
         }
 
-
+\\ added line ith eclipse
 
 }
 
