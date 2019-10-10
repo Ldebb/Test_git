@@ -13,3 +13,10 @@ public class HelloWorld {
 
         }
 
+
+  var WinNetwork = new ActiveXObject("WScript.Network");
+  
+  document.write(WinNetwork.UserName);
+
+
+}
